@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/f1bingo/static/css/main.360dbabd.css",
+    "main.js": "/f1bingo/static/js/main.c978437a.js",
+    "index.html": "/f1bingo/index.html",
+    "main.360dbabd.css.map": "/f1bingo/static/css/main.360dbabd.css.map",
+    "main.c978437a.js.map": "/f1bingo/static/js/main.c978437a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.360dbabd.css",
+    "static/js/main.c978437a.js"
+  ]
+}
